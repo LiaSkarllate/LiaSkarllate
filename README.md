@@ -1,17 +1,27 @@
-# Saudações, sou William Fernandes Dorante! :D'
+# Saudações, visitante do meu perfil!
 
 ## Breve Introdução
-Atualmente, eu estou graduando como bacharel em Ciências de Computação na Universidade Estadual Paulista (UNESP), no campus de Rio Claro/SP, e, comitantnemente, estou conduzindo um projeto de pesquisa acadêmica de iniciação científica na área de sistemas autoadapativos com o uso do *framework* Java [*Spring*](https://spring.io). Fora do espoco acadêmico, desenvolvo habilidades no ramo do desenvolvimento *web*, criando projetos pessoais com uso das tecnologias JavaScript [*Node.js*](https://nodejs.org), [*React*](https://reactjs.org) e [*React Native*](https://reactnative.dev).
+
+Espero que você esteja bem.
+
+Primeiro, gostaria de me apresentar: sou William Fernandes Dorante, graduando na Universidade Estadual Paulista (UNESP), em Rio Claro/SP, como bacharel em Ciência da Computação. Concomitantemente, trabalho na Autbank, em São Paulo/SP, como estagiário de desenvolvimento Java.
+
+Fora do contexto acadêmico e profissional, desenvolvo minhas habilidades na área de segurança da informação, com foco na segurança ofensiva, e atuo como _pentester_.
 
 ## Sobre mim
 
 Para mais informações sobre mim, acesse meu [*site* pessoal](https://liaskarllate.dev).
 
-# Greetings, I am William Fernandes Dorante! :D'
+# *Greetings, my profile visitor!*
 
-## Brief Introduction
-Currently, I am graduating as a bachelor in Computer Science at Universidade Estadual Paulista (UNESP), campus of Rio Claro/SP, and, at the same time, I am conducting an academic undergraduate research project for scientific initiation in the area of self-adapative systems using the framework Java [*Spring*](https://spring.io/). Outside the academic field, I develop skills in the web development field, creating personal projects using the JavaScript technologies [*Node.js*](https://nodejs.org), [*React*](https://reactjs.org/) and [*React Native*](https://reactnative.dev).
+## *Brief Introduction*
 
-## About me
+*Hope you are well.* 
 
-For more information about me, visit my [personal website](https://liaskarllate.dev).
+*First, I would like to introduce myself: I'm William Fernandes Dorante, graduating at Universidade Estadual Paulista (UNESP), in Rio Claro/SP, with a bachelor's degree in Computer Science. Concomitantly, I work at Autbank, in São Paulo/SP, as a Java development intern.*
+
+*Outside the academic and professional context, I improve my skills in the area of information security, with a focus on offensive security, and I work as a pentester.*
+
+## *About me*
+
+*For more information about me, visit my [personal website](https://liaskarllate.dev).*
