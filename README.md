@@ -4,6 +4,8 @@ I hope you are doing well.
 
 ### About me
 
-My name is William Fernandes Dorante. I graduated from Universidade Estadual Paulista (UNESP) in Rio Claro/SP with a bachelor's degree in Computer Science. I have been working with Java for over 4 years and currently work as a Java Developer at Autbank in São Paulo/SP, a company specialized in IT solutions for the financial market.
+I am William Fernandes Dorante, a Computer Science graduate from Universidade Estadual Paulista (UNESP), in Rio Claro, São Paulo, Brazil. I have over 5 years of experience in Java backend development, along with a broad understanding of the full development cycle, working with database management, deployment, frontend development and cloud services.
 
-My work is driven by the search for the best solutions to everyday challenges and by the application of best practices in the Java Platform to create value for the people impacted by my work.
+My work focuses on finding efficient solutions to daily challenges and applying software engineering best practices in the Java ecosystem to create value for those impacted by my work. Besides, I strive to balance code quality and delivery time, ensuring that solutions are both well-built and delivered within deadlines.
+
+Finally, I am experienced in teamwork with agile methodologies, but I can also be highly productive working independently.
